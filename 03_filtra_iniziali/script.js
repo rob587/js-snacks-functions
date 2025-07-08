@@ -5,6 +5,9 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Laura", "Alessandra"];
 
 // Dichiara la funzione qui.
 
+function isInArray (names, letter){
+
+}
 
 // Invoca la funzione qui e stampa il risultato in console
 
